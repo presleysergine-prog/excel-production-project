@@ -194,6 +194,6 @@ excel-production-project/
 │   ├── 05_dashboard.png                    
 │   └── 06_cleaned_dataset.png               
 └── data/
-    └── Production_Dataset.csv               
+    └── Production_Dataset.xlsx               
 
 ---
