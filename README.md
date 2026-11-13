@@ -196,18 +196,13 @@ excel-production-project/
 └── data/
     └── Production_Dataset.xlsx               
 
+```
+
 ---
 
 ## 👤 Author
-Presley Ufuoma Sergine
+
+**Presley Ufuoma Sergine**
 Data Analyst | Lagos, Nigeria
 
-<p>
-  <a href="https://www.linkedin.com/in/presley-sergine-b9176343a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:presleysergine23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
+[LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:presleysergine23@gmail.com)
