@@ -211,4 +211,3 @@ Data Analyst | Lagos, Nigeria
   </a>
 </p>
 
-<p align="center">
