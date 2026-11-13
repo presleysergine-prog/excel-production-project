@@ -15,9 +15,7 @@ Built with: **Microsoft Excel** (data cleaning, PivotTables, PivotCharts, Slicer
 6. [Chart-by-Chart Analysis](#6-chart-by-chart-analysis)
 7. [Key Insights and Findings](#7-key-insights-and-findings)
 8. [Conclusion](#8-conclusion)
-9. [Recommendations](#9-recommendations)
-10. [Repository Structure](#11-repository-structure)
-
+9. [Repository Structure](#11-repository-structure)
 
 ---
 
@@ -44,7 +42,7 @@ The goal of this project is to turn raw production records into a one page dashb
 
 ## 3. Dataset Description
 
-Sheet: **Production Dataset** (Excel Table named `Table1`)
+Sheet: **Production Dataset**
 
 | Column | Description |
 |---|---|
