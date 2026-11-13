@@ -205,4 +205,4 @@ excel-production-project/
 **Presley Ufuoma Sergine**
 Data Analyst | Lagos, Nigeria
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:presleysergine23@gmail.com)
+[LinkedIn](https://https://www.linkedin.com/in/presley-sergine-b9176343a) | [Email](mailto:presleysergine23@gmail.com)
