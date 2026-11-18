@@ -137,7 +137,7 @@ Slicers on the dashboard: **Region** (East, North, South, West), **Gender** (Fem
 - Interesting contrast: Furniture is only 3rd in *total* cost, but 1st in *cost per unit*; Automobiles are 1st in total cost because of volume and a high unit cost.
 
 ### 6.5 Final Dashboard
-<img width="2492" height="1243" alt="dashboard" src="https://github.com/user-attachments/assets/245f5284-417d-454c-96aa-c61e193547ab" />
+<img width="2474" height="1252" alt="05_dashboard png" src="https://github.com/user-attachments/assets/54f33262-f3a6-4a02-955b-bf08e9832693" />
 All four charts are placed on one page with a dark blue header ("PRODUCTION DASHBOARD"), a logo, and slicers on the left for Region, Gender, Age Groups, Quarters and a date Timeline.
 
 ---
