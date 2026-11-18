@@ -201,7 +201,7 @@ excel-production-project/
 
 ## 👤 Author
 
-Presley Ufuoma Sergine
+Presley Ufuoma Sergine |
 Data Analyst | Lagos, Nigeria
 
 <p>
