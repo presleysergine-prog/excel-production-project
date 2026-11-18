@@ -130,7 +130,7 @@ Slicers on the dashboard: **Region** (East, North, South, West), **Gender** (Fem
 - Output is **volatile**, alternating between peaks (Feb, Jun, Aug) and dips (Apr, May, Jul, Sep).
 
 ### 6.4 Average Production Cost per Unit by Product Type
-<img width="2560" height="1523" alt="Annotation 2026-11-12 072647" src="https://github.com/user-attachments/assets/19a52e59-2ea7-4e72-bed4-572317473b89" />
+<img width="2560" height="1528" alt="04_avg_cost_per_unit_pie png" src="https://github.com/user-attachments/assets/bfa1698e-8c82-4b4a-9236-038275254898" />
 
 - **Furniture is the most expensive product per unit** (about 66% more than Electronics).
 - Machinery and Electronics have almost identical unit costs (about 108 to 109).
